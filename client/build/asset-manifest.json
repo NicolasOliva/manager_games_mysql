@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f1f5599a.chunk.css",
+    "main.js": "/static/js/main.ec438655.chunk.js",
+    "main.js.map": "/static/js/main.ec438655.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e2559fd7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e2559fd7.js.map",
+    "static/js/2.e4fa1dce.chunk.js": "/static/js/2.e4fa1dce.chunk.js",
+    "static/js/2.e4fa1dce.chunk.js.map": "/static/js/2.e4fa1dce.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.786adf7dc3cc9d574ab4d2fd2bf5f6f6.js": "/precache-manifest.786adf7dc3cc9d574ab4d2fd2bf5f6f6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f1f5599a.chunk.css.map": "/static/css/main.f1f5599a.chunk.css.map",
+    "static/media/index.css": "/static/media/camp_now.220f22f6.jpg"
+  }
+}
