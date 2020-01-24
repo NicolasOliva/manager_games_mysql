@@ -1,4 +1,4 @@
-# manager_games
+# manager_games_mysql
 
 Application to manage your soccer video games 
 
